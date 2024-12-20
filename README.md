@@ -1,4 +1,6 @@
-RULES TO THE GAME :
+Catfight is a simple Python game that I created for a university project. It was my first time using Python to program a game. This project implements a game similar to Rock-Paper-Scissors, where players can compete against each other or against the computer. The game determines the winner based on the rules of Rock-Paper-Scissors.
+
+Rules to the game :
 - Rock beats Scissors
 - Scissors beat Paper
 - Paper beats Rock
